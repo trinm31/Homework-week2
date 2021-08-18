@@ -1,0 +1,15 @@
+/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/bin/Debug/net5.0/PhanSo.deps.json
+/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/bin/Debug/net5.0/PhanSo.runtimeconfig.json
+/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/bin/Debug/net5.0/PhanSo.runtimeconfig.dev.json
+/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/bin/Debug/net5.0/PhanSo.dll
+/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/bin/Debug/net5.0/ref/PhanSo.dll
+/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/bin/Debug/net5.0/PhanSo.pdb
+/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/obj/Debug/net5.0/PhanSo.csprojAssemblyReference.cache
+/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/obj/Debug/net5.0/PhanSo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/obj/Debug/net5.0/PhanSo.AssemblyInfoInputs.cache
+/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/obj/Debug/net5.0/PhanSo.AssemblyInfo.cs
+/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/obj/Debug/net5.0/PhanSo.csproj.CoreCompileInputs.cache
+/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/obj/Debug/net5.0/PhanSo.dll
+/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/obj/Debug/net5.0/ref/PhanSo.dll
+/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/obj/Debug/net5.0/PhanSo.pdb
+/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/obj/Debug/net5.0/PhanSo.genruntimeconfig.cache
