@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nguyenminhtri/RiderProjects/PhanSo/KhoangCach2Diem/KhoangCach2Diem.csproj": {}
+    "/Users/nguyenminhtri/RiderProjects/Homework-week2/KhoangCach2Diem/KhoangCach2Diem.csproj": {}
   },
   "projects": {
-    "/Users/nguyenminhtri/RiderProjects/PhanSo/KhoangCach2Diem/KhoangCach2Diem.csproj": {
+    "/Users/nguyenminhtri/RiderProjects/Homework-week2/KhoangCach2Diem/KhoangCach2Diem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nguyenminhtri/RiderProjects/PhanSo/KhoangCach2Diem/KhoangCach2Diem.csproj",
+        "projectUniqueName": "/Users/nguyenminhtri/RiderProjects/Homework-week2/KhoangCach2Diem/KhoangCach2Diem.csproj",
         "projectName": "KhoangCach2Diem",
-        "projectPath": "/Users/nguyenminhtri/RiderProjects/PhanSo/KhoangCach2Diem/KhoangCach2Diem.csproj",
+        "projectPath": "/Users/nguyenminhtri/RiderProjects/Homework-week2/KhoangCach2Diem/KhoangCach2Diem.csproj",
         "packagesPath": "/Users/nguyenminhtri/.nuget/packages/",
-        "outputPath": "/Users/nguyenminhtri/RiderProjects/PhanSo/KhoangCach2Diem/obj/",
+        "outputPath": "/Users/nguyenminhtri/RiderProjects/Homework-week2/KhoangCach2Diem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nguyenminhtri/.config/NuGet/NuGet.Config"
+          "/Users/nguyenminhtri/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

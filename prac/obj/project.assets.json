@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nguyenminhtri/RiderProjects/Homework-week2/KhoangCach2Diem/KhoangCach2Diem.csproj",
-      "projectName": "KhoangCach2Diem",
-      "projectPath": "/Users/nguyenminhtri/RiderProjects/Homework-week2/KhoangCach2Diem/KhoangCach2Diem.csproj",
+      "projectUniqueName": "/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/prac.csproj",
+      "projectName": "prac",
+      "projectPath": "/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/prac.csproj",
       "packagesPath": "/Users/nguyenminhtri/.nuget/packages/",
-      "outputPath": "/Users/nguyenminhtri/RiderProjects/Homework-week2/KhoangCach2Diem/obj/",
+      "outputPath": "/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nguyenminhtri/.nuget/NuGet/NuGet.Config"

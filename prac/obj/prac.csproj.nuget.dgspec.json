@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nguyenminhtri/RiderProjects/Homework-week2/PhanSo/PhanSo.csproj": {}
+    "/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/prac.csproj": {}
   },
   "projects": {
-    "/Users/nguyenminhtri/RiderProjects/Homework-week2/PhanSo/PhanSo.csproj": {
+    "/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/prac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nguyenminhtri/RiderProjects/Homework-week2/PhanSo/PhanSo.csproj",
-        "projectName": "PhanSo",
-        "projectPath": "/Users/nguyenminhtri/RiderProjects/Homework-week2/PhanSo/PhanSo.csproj",
+        "projectUniqueName": "/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/prac.csproj",
+        "projectName": "prac",
+        "projectPath": "/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/prac.csproj",
         "packagesPath": "/Users/nguyenminhtri/.nuget/packages/",
-        "outputPath": "/Users/nguyenminhtri/RiderProjects/Homework-week2/PhanSo/obj/",
+        "outputPath": "/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nguyenminhtri/.nuget/NuGet/NuGet.Config"

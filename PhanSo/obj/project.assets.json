@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/PhanSo.csproj",
+      "projectUniqueName": "/Users/nguyenminhtri/RiderProjects/Homework-week2/PhanSo/PhanSo.csproj",
       "projectName": "PhanSo",
-      "projectPath": "/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/PhanSo.csproj",
+      "projectPath": "/Users/nguyenminhtri/RiderProjects/Homework-week2/PhanSo/PhanSo.csproj",
       "packagesPath": "/Users/nguyenminhtri/.nuget/packages/",
-      "outputPath": "/Users/nguyenminhtri/RiderProjects/PhanSo/PhanSo/obj/",
+      "outputPath": "/Users/nguyenminhtri/RiderProjects/Homework-week2/PhanSo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nguyenminhtri/.config/NuGet/NuGet.Config"
+        "/Users/nguyenminhtri/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

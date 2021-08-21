@@ -1,0 +1,15 @@
+/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/bin/Debug/net5.0/prac.deps.json
+/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/bin/Debug/net5.0/prac.runtimeconfig.json
+/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/bin/Debug/net5.0/prac.runtimeconfig.dev.json
+/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/bin/Debug/net5.0/prac.dll
+/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/bin/Debug/net5.0/ref/prac.dll
+/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/bin/Debug/net5.0/prac.pdb
+/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/obj/Debug/net5.0/prac.csprojAssemblyReference.cache
+/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/obj/Debug/net5.0/prac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/obj/Debug/net5.0/prac.AssemblyInfoInputs.cache
+/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/obj/Debug/net5.0/prac.AssemblyInfo.cs
+/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/obj/Debug/net5.0/prac.csproj.CoreCompileInputs.cache
+/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/obj/Debug/net5.0/prac.dll
+/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/obj/Debug/net5.0/ref/prac.dll
+/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/obj/Debug/net5.0/prac.pdb
+/Users/nguyenminhtri/RiderProjects/Homework-week2/prac/obj/Debug/net5.0/prac.genruntimeconfig.cache
