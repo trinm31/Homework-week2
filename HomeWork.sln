@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanSo", "PhanSo\PhanSo.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhoangCach2Diem", "KhoangCach2Diem\KhoangCach2Diem.csproj", "{D366E244-37E9-4DE2-A704-D36DA9D20466}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac", "prac\prac.csproj", "{B289C136-6F35-4236-B3C7-73D9F21BCDB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{D366E244-37E9-4DE2-A704-D36DA9D20466}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D366E244-37E9-4DE2-A704-D36DA9D20466}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D366E244-37E9-4DE2-A704-D36DA9D20466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B289C136-6F35-4236-B3C7-73D9F21BCDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B289C136-6F35-4236-B3C7-73D9F21BCDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B289C136-6F35-4236-B3C7-73D9F21BCDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B289C136-6F35-4236-B3C7-73D9F21BCDB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
