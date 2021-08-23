@@ -1,0 +1,15 @@
+/Users/nguyenminhtri/RiderProjects/Homework-week2/DataStructure/bin/Debug/net5.0/DataStructure.deps.json
+/Users/nguyenminhtri/RiderProjects/Homework-week2/DataStructure/bin/Debug/net5.0/DataStructure.runtimeconfig.json
+/Users/nguyenminhtri/RiderProjects/Homework-week2/DataStructure/bin/Debug/net5.0/DataStructure.runtimeconfig.dev.json
+/Users/nguyenminhtri/RiderProjects/Homework-week2/DataStructure/bin/Debug/net5.0/DataStructure.dll
+/Users/nguyenminhtri/RiderProjects/Homework-week2/DataStructure/bin/Debug/net5.0/ref/DataStructure.dll
+/Users/nguyenminhtri/RiderProjects/Homework-week2/DataStructure/bin/Debug/net5.0/DataStructure.pdb
+/Users/nguyenminhtri/RiderProjects/Homework-week2/DataStructure/obj/Debug/net5.0/DataStructure.csproj.AssemblyReference.cache
+/Users/nguyenminhtri/RiderProjects/Homework-week2/DataStructure/obj/Debug/net5.0/DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhtri/RiderProjects/Homework-week2/DataStructure/obj/Debug/net5.0/DataStructure.AssemblyInfoInputs.cache
+/Users/nguyenminhtri/RiderProjects/Homework-week2/DataStructure/obj/Debug/net5.0/DataStructure.AssemblyInfo.cs
+/Users/nguyenminhtri/RiderProjects/Homework-week2/DataStructure/obj/Debug/net5.0/DataStructure.csproj.CoreCompileInputs.cache
+/Users/nguyenminhtri/RiderProjects/Homework-week2/DataStructure/obj/Debug/net5.0/DataStructure.dll
+/Users/nguyenminhtri/RiderProjects/Homework-week2/DataStructure/obj/Debug/net5.0/ref/DataStructure.dll
+/Users/nguyenminhtri/RiderProjects/Homework-week2/DataStructure/obj/Debug/net5.0/DataStructure.pdb
+/Users/nguyenminhtri/RiderProjects/Homework-week2/DataStructure/obj/Debug/net5.0/DataStructure.genruntimeconfig.cache

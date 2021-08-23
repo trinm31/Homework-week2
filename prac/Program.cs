@@ -102,12 +102,15 @@ namespace prac
             // null = rỗng nullable cho phép biến có thể null
             int? a = 1;
             a = null;
+
+            var result1 = sum(1, 2);
+            
         }
     
         
         public static void ThamSoThamChieu(out int x)
         {
-            x = 100;
+            x = 100;  
         }
 
         public static void TestFunc(dynamic c)
